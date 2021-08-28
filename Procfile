@@ -1,1 +1,1 @@
-web: gunicorn ramazanozmert.wsgi--log-file -
+web: gunicorn ramazanozmert.wsgi --log-file -
